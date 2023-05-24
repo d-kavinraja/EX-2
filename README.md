@@ -3,7 +3,7 @@
 # DATE: 16.03.2023
 
 # AIM :
-## To write a python program to perform sliding window protocol
+## To write a python program to perform stop and wait protocol
 
 
 # ALGORITHM :
